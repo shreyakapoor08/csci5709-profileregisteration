@@ -1,7 +1,7 @@
 # Tutorial 3
 
 * *Date Created*: 07 FEB 2024
-* *Last Modification Date*: 07 FEB 2024
+* *Last Modification Date*: 12 FEB 2024
 * *Tutorial URL*: <https://git.cs.dal.ca/shreyak/csci-5709-tutorials/-/tree/main/tutorial3?ref_type=heads>
 * *Deployed URL*: <https://csci5709-profileregistration.netlify.app/>
 
