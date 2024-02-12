@@ -63,8 +63,8 @@ export default function Profileregisteration() {
   
     if (!formData.password) {
       newErrors.password = "Password is required";
-    } else if (formData.password.length < 8) {
-      newErrors.password = "Password should be at least 8 characters long";
+    } else if (!formData.password.match(/^(?=.*[a-zA-Z0-9])(?=.*[!@#$%^&*])[a-zA-Z0-9!@#$%^&*]{8,}$/)) {
+      newErrors.password = "Password should be at least 8 characters long and contain at least one alphabet, one number, and one special character";
     }
   
     if (!formData.confirmPassword) {

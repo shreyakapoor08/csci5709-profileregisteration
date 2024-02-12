@@ -27,6 +27,8 @@ Steps to navigate to the pages
 
 1. To find the perfect gradient color i referred : https://cssgradient.io/gradient-backgrounds/
 2. I referred the official documentation to study about useLocation : https://reactrouter.com/en/main/hooks/use-location 
+3. I have referred https://regexr.com/ to build and test regex to perform form validation
+4. I referred https://mui.com/material-ui/getting-started/ to brush up my concepts of material ui
 
 ## Acknowledgments
 
